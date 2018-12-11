@@ -4,6 +4,8 @@ import threading
 import time
 from certifi import where
 
+mistake is here
+and another miskate
 
 def get_url():
     """Получение URL от пользователя"""
